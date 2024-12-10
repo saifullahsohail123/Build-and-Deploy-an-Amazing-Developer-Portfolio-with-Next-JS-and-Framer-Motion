@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -34,3 +35,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+=======
+# Build-and-Deploy-an-Amazing-Developer-Portfolio-with-Next-JS-and-Framer-Motion
+Building and deploying an amazing developer Portfolio with Next JS and Framer Motion providing interactive and beautiful animations. using Sentry to monitor our website and hostinger to buy us a domain name.
+>>>>>>> a348a01f7cc26eb29af7e9578c64521ac1781389
